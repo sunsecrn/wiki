@@ -1,3 +1,10 @@
+---
+title: Acesso a VPN
+type: docs
+aliases:
+  - /docs/hack-the-box-acesso-a-vpn/
+---
+
 ## Guia de Instalação de VPN para o HTB em ambiente Windows
 
 ### Passo 1: Baixar o OpenVPN

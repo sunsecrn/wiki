@@ -10,4 +10,5 @@ toc: false
 {{< card link="onboarding" title="Onboarding" icon="book-open" >}}
 {{< card link="hack-the-box" title="Hack the box" icon="book-open" >}}
 {{< card link="docs" title="Documentação" icon="book-open" >}}
+{{< card link="grupo-de-estudos" title="Grupo de Estudos" icon="book-open" >}}
 {{< /cards >}}

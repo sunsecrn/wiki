@@ -3,6 +3,13 @@ module:
   imports:
     - path: github.com/imfing/hextra
 
+author:
+  name: Sunsec
+  email: contato@sunsec.org
+
+disableKinds:
+  - rss
+
 markup:
   # allow raw html
   goldmark:
@@ -15,12 +22,24 @@ markup:
 
 menu:
   main:
-    - name: HTB
-      pageRef: /htb
+    - name: Onboarding
+      pageRef: /onboarding
       weight: 1
 
-    - name: Search
+    - name: Hack The Box
+      pageRef: /hack-the-box
+      weight: 2
+
+    - name: Documentação
+      pageRef: /docs
+      weight: 3
+
+    - name: Pesquisas
+      pageRef: /pesquisas
       weight: 4
+
+    - name: Search
+      weight: 5
       params:
         type: search
 
